@@ -1,0 +1,12 @@
+ReactJs
+===================
+1. Make own notes
+2. Use Laptop/desktop
+3. Maintain a Github repo
+4. keep loging as in video
+
+
+Assignment
+=============
+1. CDN - Content Delivery Network
+2. crossorigin
